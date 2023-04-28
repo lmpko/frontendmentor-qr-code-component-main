@@ -25,6 +25,7 @@ main {
     text-align: center;
     margin: 15px;
     width: 315px;
+    box-shadow: 10px 10px 35px -10px var(--secondary-color);
 }
 
 main img{
@@ -42,7 +43,7 @@ main h1{
 
 main p{
     margin: 25px;
-    padding-bottom: 35px;
+    padding-bottom: 20px;
     font-size: 15px;
     color: var(--secondary-color);
 }
