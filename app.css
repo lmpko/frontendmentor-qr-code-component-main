@@ -1,0 +1,18 @@
+
+/* font-family: 'Outfit', sans-serif; */
+
+:root{
+    --primary-color: hsl(218, 44%, 22%);
+    --secondary-color: hsl(220, 15%, 55%);
+    --tertiary-color: hsl(212, 45%, 89%);
+    --fourthary-color: hsl(0, 0%, 100%);
+
+}
+
+body p {
+    font-size: 15px;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+}
